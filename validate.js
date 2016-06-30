@@ -42,7 +42,8 @@ function funcValidate(){
     var spanName = document.getElementById('space6').innerHTML = name;
     var name = document.forms[0].elements[5].value;
     var spanName = document.getElementById('space7').innerHTML = name;
-    
+    var name = document.forms[0].elements[0].value;
+    var spanName = document.getElementById('space8').innerHTML = name;
   }
   
 }
